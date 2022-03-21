@@ -1,0 +1,10 @@
+Testcase: edu.umb.cs680.HW02.SingletonTest
+Test: checkingHashcode() took 39 milli sec(s)
+Test: checkingNotNullReturns() took 0 milli sec(s)
+Test: checkingSameInstances() took 0 milli sec(s)
+Tests run: 3, Failures: 0, Skipped: 0, Aborted: 0, Time elapsed: 60 milli sec(s)
+------------- Standard Output ---------------
+
+
+
+------------- ---------------- ---------------
