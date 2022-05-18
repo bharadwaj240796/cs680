@@ -1,0 +1,10 @@
+Testcase: edu.umb.cs680.HW07.FileTest
+Test: verifyFileC() took 1 milli sec(s)
+Test: verifyFileD() took 0 milli sec(s)
+Test: verifyFileE() took 0 milli sec(s)
+Test: verifyFileF() took 0 milli sec(s)
+Test: checkFileA() took 0 milli sec(s)
+Test: checkFileB() took 0 milli sec(s)
+Test: checkFiles() took 0 milli sec(s)
+Test: checkDirectory() took 0 milli sec(s)
+Tests run: 8, Failures: 0, Skipped: 0, Aborted: 0, Time elapsed: 9 milli sec(s)
